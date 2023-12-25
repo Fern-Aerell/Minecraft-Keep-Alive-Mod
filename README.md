@@ -29,12 +29,12 @@ Deactivate the mod for a specific player:
 
 ## Image
 
-![1.png](images%2F1.png)
+![1.webp](images%2F1.webp)
 
 
-![2.png](images%2F2.png)
+![2.webp](images%2F2.webp)
 
 
-![3.png](images%2F3.png)
+![3.webp](images%2F3.webp)
 
 <p align="center"><i>Fern Aerell &copy;2023/2024</i></p>
