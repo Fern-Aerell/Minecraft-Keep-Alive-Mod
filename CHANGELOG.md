@@ -8,19 +8,29 @@ Initial Version
 - Fabric API Version : **0.91.0+1.20.1**
 
 ## Features
-- Minecraft but lowest health is half-hearted.
-- Command untuk mengatur player yang memiliki darah terendahnya adalah setengah hati
+- Minecraft with the twist that the lowest health is half-hearted.
+- Command to set the player with the lowest health to half a heart.
 
 ## Command
-Melihat status mod pada player tertentu
+View the mod status for a specific player:
 ```
 /mbtlhihh status <player>
 ```
-Mengaktifkan mod pada player tertentu
+Activate the mod for a specific player:
 ```
 /mbtlhihh activate <player>
 ```
-Menonaktifkan mod pada player tertentu
+Deactivate the mod for a specific player:
 ```
 /mbtlhihh deactivate <player>
 ```
+
+## Image
+
+![1.webp](images%2F1.webp)
+
+
+![2.webp](images%2F2.webp)
+
+
+![3.webp](images%2F3.webp)
