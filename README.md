@@ -1,30 +1,40 @@
 # Minecraft But Lowest Health Is Half-Hearted
 
-<p style="text-align: center;"><img src="src/main/resources/assets/mbtlhihh/icon.png" width="250"></p>
+<p align="center"><img src="src/main/resources/assets/mbtlhihh/icon.png" width="250"></p>
 
 [![Static Badge](https://img.shields.io/badge/Version-1.0--1.20.1-green)](CHANGELOG.md)
 
-This is a mod Minecraft but lowest health is half-hearted.
+This is a Minecraft mod where the lowest health is half-hearted.
 
 ## Required
-- Fabric API (If your use Fabric Loader)
+- Fabric API (If you use Fabric Loader)
 
 ## Features
-- Minecraft but lowest health is half-hearted.
-- Command untuk mengatur player yang memiliki darah terendahnya adalah setengah hati
+- Minecraft with the twist that the lowest health is half-hearted.
+- Command to set the player with the lowest health to half a heart.
 
 ## Command
-Melihat status mod pada player tertentu
+View the mod status for a specific player:
 ```
 /mbtlhihh status <player>
 ```
-Mengaktifkan mod pada player tertentu 
+Activate the mod for a specific player:
 ```
 /mbtlhihh activate <player>
 ```
-Menonaktifkan mod pada player tertentu
+Deactivate the mod for a specific player:
 ```
 /mbtlhihh deactivate <player>
 ```
+
+## Image
+
+![1.png](images%2F1.png)
+
+
+![2.png](images%2F2.png)
+
+
+![3.png](images%2F3.png)
 
 <p align="center"><i>Fern Aerell &copy;2023/2024</i></p>
