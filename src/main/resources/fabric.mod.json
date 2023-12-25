@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "mbtlhihh",
+  "version": "${version}",
+  "name": "Lowest Health Is Half-Hearted",
+  "description": "",
+  "authors": [],
+  "contact": {
+    "repo": "https://github.com/Fern Aerell/Lowest Health Is Half-Hearted"
+  },
+  "license": "All-Rights-Reserved",
+  "icon": "assets/mbtlhihh/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "net.aerelldev.mbtlhihh.client.MBTLHIHH"
+    ],
+    "main": [
+      "net.aerelldev.mbtlhihh.MBTLHIHH"
+    ]
+  },
+  "mixins": [
+    "mbtlhihh.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
