@@ -2,14 +2,14 @@
   "schemaVersion": 1,
   "id": "mbtlhihh",
   "version": "${version}",
-  "name": "Lowest Health Is Half-Hearted",
+  "name": "Keep-Alive Mod",
   "description": "",
   "authors": [],
   "contact": {
     "repo": "https://github.com/Fern Aerell/Lowest Health Is Half-Hearted"
   },
   "license": "All-Rights-Reserved",
-  "icon": "assets/mbtlhihh/icon.png",
+  "icon": "icon.png",
   "environment": "*",
   "entrypoints": {
     "client": [

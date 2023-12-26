@@ -1,8 +1,8 @@
-# Minecraft But Lowest Health Is Half-Hearted
+# Keep-Alive Mod
 
-<p align="center"><img src="src/main/resources/assets/mbtlhihh/icon.png" width="250"></p>
+<p align="center"><img src="src/main/resources/icon.png" width="250"></p>
 
-[![Static Badge](https://img.shields.io/badge/Version-1.0--1.20.1-green)](CHANGELOG.md)
+[![Static Badge](https://img.shields.io/badge/Version-1.2.4--1.20.1-green)](CHANGELOG.md)
 
 This is a Minecraft mod where the lowest health is half-hearted.
 
@@ -16,25 +16,31 @@ This is a Minecraft mod where the lowest health is half-hearted.
 ## Command
 View the mod status for a specific player:
 ```
-/mbtlhihh status <player>
+/keepalive status <player>
 ```
-Activate the mod for a specific player:
+Activate and deactivate the mod for a specific player:
 ```
-/mbtlhihh activate <player>
+/keepalive <player> <status> <use_totem>
 ```
-Deactivate the mod for a specific player:
-```
-/mbtlhihh deactivate <player>
-```
+
+## Information
+- Players will remain dead when using ```/kill``` if the ```use_totem``` value is true.
 
 ## Image
 
-![1.webp](images%2F1.webp)
+![1.png](images%2F1.png)
 
+![2.png](images%2F2.png)
 
-![2.webp](images%2F2.webp)
+![3.png](images%2F3.png)
 
+![4.png](images%2F4.png)
 
-![3.webp](images%2F3.webp)
+![5.png](images%2F5.png)
+
+![6.png](images%2F6.png)
+
+![7.png](images%2F7.png)
+
 
 <p align="center"><i>Fern Aerell &copy;2023/2024</i></p>

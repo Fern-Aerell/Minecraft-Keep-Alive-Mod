@@ -1,3 +1,30 @@
+# 1.2.4-1.20.1
+
+Revision 01
+
+## Features
+- Added toggle ```<use_totem>``` to enable the use of totems.
+- Keepalive status will not reset when the player dies.
+
+## Changes
+- Changed the mod name from ```Minecraft but health is half-hearted``` to ```Keep-Alive Mod```.
+- Changed the command prefix from ```/mbtlhihh``` to ```/keepalive```.
+
+## Commands
+View the mod status for a specific player:
+```
+/keepalive status <player>
+```
+Activate and deactivate the mod for a specific player:
+```
+/keepalive <player> <status> <use_totem>
+```
+
+## Information
+- Players will remain dead when using ```/kill``` if the ```use_totem``` value is true.
+
+------------------------------------------------------
+
 # 1.0-1.20.1
 
 Initial Version
@@ -24,13 +51,3 @@ Deactivate the mod for a specific player:
 ```
 /mbtlhihh deactivate <player>
 ```
-
-## Image
-
-![1.webp](images%2F1.webp)
-
-
-![2.webp](images%2F2.webp)
-
-
-![3.webp](images%2F3.webp)
